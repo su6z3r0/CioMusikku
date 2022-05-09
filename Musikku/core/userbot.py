@@ -57,8 +57,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("musikkugroup")
-                await self.one.join_chat("musikkuchannel")
+                await self.one.join_chat("projectcio")
+                await self.one.join_chat("ciomusic")
             except:
                 pass
             assistants.append(1)
@@ -87,8 +87,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("musikkugroup")
-                await self.two.join_chat("musikkuchannel")
+                await self.two.join_chat("projectcio")
+                await self.two.join_chat("ciomusic")
             except:
                 pass
             assistants.append(2)
@@ -117,8 +117,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("musikkugroup")
-                await self.three.join_chat("musikkuchannel")
+                await self.three.join_chat("projectcio")
+                await self.three.join_chat("ciomusic")
             except:
                 pass
             assistants.append(3)
@@ -147,8 +147,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("musikkugroup")
-                await self.four.join_chat("musikkuchannel")
+                await self.four.join_chat("projectcio")
+                await self.four.join_chat("ciomusic")
             except:
                 pass
             assistants.append(4)
@@ -177,8 +177,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("musikkugroup")
-                await self.five.join_chat("musikkuchannel")
+                await self.five.join_chat("projectcio")
+                await self.five.join_chat("ciomusic")
             except:
                 pass
             assistants.append(5)
