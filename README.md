@@ -1,9 +1,9 @@
-<h1><p align="center"><a>𝙈𝙐𝙎𝙄𝙆  𝙆𝙐</a><p/><h1/>
-<p align="center"><a href="https://github.com/kenkansaja/Musikku"><img src="https://telegra.ph/file/7286ea5b5a2f8dc66e3ed.jpg"width="300"heigh="100" /></a></p>
+<h1><p align="center"><a>𝘾𝙄𝙊 𝙈𝙐𝙎𝙄𝙆  𝙆𝙐</a><p/><h1/>
+<p align="center"><a href="https://github.com/kenkansaja/Musikku"><img src="https://telegra.ph/file/871b6cc1c66f720f14388.jpg"width="300"heigh="100" /></a></p>
 
 
 
-ᴍᴜsɪᴋ  ᴋᴜ  ᴀᴅᴀʟᴀʜ  ʀᴇᴘᴏ  ᴄʟᴏɴᴇ  ᴅᴀʀɪ  [ʏᴜᴋᴋɪᴍᴜsɪᴄʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)  ᴛᴀᴘɪ  ʏᴀɴɢ  sᴜᴅᴀʜ  ᴅɪ  ʙᴀʜᴀsᴀ  ɪɴᴅᴏɴᴇsɪᴀᴋᴀɴ  ᴏʟᴇʜ  sᴀʏᴀ,  sᴀʏᴀ  ᴀᴅᴀʟᴀʜ  ᴋᴀɴɢᴇʀ  ʙᴜᴋᴀɴ  ᴄᴏᴅᴇʀ  ᴅᴀɴ  sᴀʏᴀ  ᴍᴀsɪʜ  ᴀᴍᴀᴛɪʀᴀɴ  ᴏᴋᴇʏ
+ᴄɪᴏ ᴍᴜsɪᴋ  ᴋᴜ  ᴀᴅᴀʟᴀʜ  ʀᴇᴘᴏ  ᴄʟᴏɴᴇ  ᴅᴀʀɪ  [ʏᴜᴋᴋɪᴍᴜsɪᴄʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)  ᴛᴀᴘɪ  ʏᴀɴɢ  sᴜᴅᴀʜ  ᴅɪ  ʙᴀʜᴀsᴀ  ɪɴᴅᴏɴᴇsɪᴀᴋᴀɴ  ᴏʟᴇʜ  sᴀʏᴀ,  sᴀʏᴀ  ᴀᴅᴀʟᴀʜ  ᴋᴀɴɢᴇʀ  ʙᴜᴋᴀɴ  ᴄᴏᴅᴇʀ  ᴅᴀɴ  sᴀʏᴀ  ᴍᴀsɪʜ  ᴀᴍᴀᴛɪʀᴀɴ  ᴏᴋᴇʏ
 
 ## DEPLOY DI HEROKU
 
@@ -40,7 +40,7 @@
 - /channelplay [Nama pengguna atau id obrolan] atau [Nonaktifkan] - Hubungkan saluran ke grup dan streaming musik di obrolan suara saluran dari grup Anda.
 ## DEPLOY VPS
 Nih kak cara deploy di vps
-- `git clone https://github.com/kenkansaja/Musikku`
+- `git clone https://github.com/cioyourfvboynih/CioMusikku`
 - `cd Musikku`
 - `sudo bash setup`
 - `bash start`
@@ -54,10 +54,11 @@ Nih kak cara deploy di vps
 Terimakasih
 - [@NotReallyShikhar](https://github.com/NotReallyShikhar) - Dev
 - [@kenkansaja](https://github.com/kenkansaja) - Kanger
+- [@cioyourfvboy](https://github.com/cioyourfvboynih) - Kanger
 
 ### Mari terhubung!
 <p>
-    <a href="https://t.me/kenkanasw" target="blank"><img src="https://img.shields.io/badge/@kenkanasw-30302f?style=flat&logo=telegram"width="254" height="52"/></a>
-    <a href="https://t.me/musikkugroup" target="blank"><img src="https://img.shields.io/badge/MUSIK KU GROUP-black?style=flat&logo=telegram"width="319" height="52"/></a>
-    <a href="https://t.me/musikkuchannel" target="blank"><img src="https://img.shields.io/badge/MUSIK KU CHANNEL-gold?style=flat&logo=telegram"width="332" height="49"/></a>
+    <a href="https://t.me/cioyourfvboy" target="blank"><img src="https://img.shields.io/badge/@cioyourfvboy-30302f?style=flat&logo=telegram"width="254" height="52"/></a>
+    <a href="https://t.me/projectcio" target="blank"><img src="https://img.shields.io/badge/CIO MUSIK KU GROUP-black?style=flat&logo=telegram"width="319" height="52"/></a>
+    <a href="https://t.me/ciomusic" target="blank"><img src="https://img.shields.io/badge/CIO MUSIK KU CHANNEL-gold?style=flat&logo=telegram"width="332" height="49"/></a>
 </p>
